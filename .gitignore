@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+.env
+*.log
+
+# Python bytecode
+*.pyc
+*.pyo
+
+# Editor settings
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
